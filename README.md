@@ -23,3 +23,12 @@ The goal of this project is to build a neural network based image classifier usi
   * Convolutional neural network architecture design
   * Stochastic gradient descent
   * Deep learning with PyTorch
+
+## [Project 3 - Creating Customer Segments with Arvato](https://github.com/IvanBabkin/Udacity_Intro_to_Machine_Learning_with_PyTorch/tree/main/Project%203%20-%20Creating%20Customer%20Segments%20with%20Arvato)
+
+This project involves working with real data provided by a company that does mail-order sales in order to identify customer segments of interest. Namely, this project's goal is to use unsupervised learning techniques to identify facets of the population that are most likely to respond to mail advertising.
+
+* Key techniques used:
+  * Data cleaning
+  * Dimensionality reduction with PCA
+  * Unsupervised clustering
